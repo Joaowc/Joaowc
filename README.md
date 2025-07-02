@@ -1,5 +1,20 @@
 ## Olá! Eu sou o João Crispim 👋
 
+📚 Sou estudante de Ciência da Computação na Uniasselvi Blumenau e também estou me qualificando no curso Jovem Programador do Senac, onde foco em Java e MySQL.
+
+✨ Tenho grande interesse tanto em front-end quanto em back-end, acreditando que dominar ambos é essencial para criar soluções completas e eficientes.
+
+🎨 Possuo experiência significativa em UI/UX, o que me ajuda a pensar na melhor experiência para o usuário. Também tenho conhecimento intermediário em Lua, e venho aprendendo bastante sobre HTML e CSS, com os quais me sinto confortável.
+
+💬 Além disso, sou quase fluente em inglês, o que facilita meu acesso a conteúdos técnicos e a comunicação com a comunidade internacional.
+
+🚀 Atualmente, estou desenvolvendo projetos pessoais para consolidar meus conhecimentos e crescer cada vez mais como desenvolvedor full-stack.
+
+🔗 Fique à vontade para conhecer meus projetos ou me chamar para trocar uma ideia! Estou sempre aberto a colaborações e novos desafios.
+
+
+<br>
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaowc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joaowc/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joaowc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/joaowc/github-readme-stats#gh-light-mode-only)
 
