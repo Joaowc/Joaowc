@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Crispim 👋
 
-📚 Sou estudante de Ciência da Computação na Uniasselvi Blumenau e também estou qualificando no curso Jovem Programador do Senac, onde foco em Java e MySQL.
+📚 Sou estudante de Ciência da Computação na Uniasselvi Blumenau e também estou qualificado no curso Jovem Programador do Senac, onde foco em Java e MySQL.
 
 ✨ Tenho grande interesse tanto em front-end quanto em back-end, acreditando que dominar ambos é essencial para criar soluções completas e eficientes.
 
