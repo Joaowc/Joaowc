@@ -1,36 +1,65 @@
-## Olá! Eu sou o João Crispim 👋
+<div align="center">
 
-📚 Sou estudante de Ciência da Computação na Uniasselvi Blumenau e também estou qualificado no curso Jovem Programador do Senac, onde foco em Java e MySQL.
+# 👋 Olá! Eu sou o João Crispim
 
-✨ Tenho grande interesse tanto em front-end quanto em back-end, acreditando que dominar ambos é essencial para criar soluções completas e eficientes.
+### 🎓 Computer Science Student • 💻 Developer in progress
 
-🎨 Possuo experiência significativa em UI/UX, o que me ajuda a pensar na melhor experiência para o usuário. Também tenho conhecimento intermediário em Lua, e venho aprendendo bastante sobre HTML e CSS, com os quais me sinto confortável.
+<img src="https://www.gamerevolution.com/wp-content/uploads/sites/2/gallery/digimon-story-cyber-sleuth/file_33881_digimon-story-cyber-sleuth_031.jpg" width="500">
 
-💬 Além disso, sou quase fluente em inglês, o que facilita meu acesso a conteúdos técnicos e a comunicação com a comunidade internacional.
-
-🚀 Atualmente, estou desenvolvendo projetos pessoais para consolidar meus conhecimentos e crescer cada vez mais como desenvolvedor full-stack.
-
-🔗 Fique à vontade para conhecer meus projetos ou me chamar para trocar uma ideia! Estou sempre aberto a colaborações e novos desafios.
-
-
-<br>
-
-
-<div style="display: inline_block">
-
-  <img align="center" alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="MYSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Eclipse" width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png">
-  <img align="center" alt="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="PostMan" width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png">
-  <img align="center" alt="Lua" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
-  <img align="center" alt="Figma" width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">  
 </div>
 
-<div>
-  <hr>
- <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+---
+
+### Sobre mim
+
+🎓 Estudante de **Ciência da Computação** na Uniasselvi Blumenau  
+💻 Formado no **Jovem Programador — Senac**  
+🚀 Atualmente estudando e criando projetos para evoluir como desenvolvedor.
+
+Tenho interesse em **Front-end, Back-end, UI/UX e Banco de dados (SQL)**, e gosto de aprender colocando a mão no código.
+
+🌎 Inglês avançado  
+🎨 UI/UX  
+💻 Front-end  
+⚙️ Back-end  
+🗄️ Banco de Dados (SQL)  
+🎮 Game Development  
+
+---
+
+### Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45">
+
+</div>
+
+<p align="center">
+☕ Java • 🗄️ MySQL • 🌐 HTML/CSS • 🌙 Lua • 🎨 Figma
+</p>
+
+---
+
+###  Projetos
+
+🚧 **Construindo meu portfólio...**
+
+Aqui você pode encontrar projetos acadêmicos, projetos desenvolvidos durante o Jovem Programador e experimentos pessoais.
+
+---
+
+###  Contato
+
+<div align="center">
+
+<a href="SEU_LINKEDIN_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
