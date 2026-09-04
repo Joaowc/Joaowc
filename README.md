@@ -8,6 +8,27 @@
 
 </div>
 
+<div align="center">
+
+### ❄ Tecnologias 🔥
+
+</div>
+<br>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45">
+
+</div>
+
+<p align="center">
+☕ Java • 🗄️ MySQL • 🌐 HTML/CSS • 🌙 Lua • 🎨 Figma
+</p>
+
 ---
 
 ### Sobre mim
@@ -25,24 +46,6 @@ Tenho interesse em **Front-end, Back-end, UI/UX e Banco de dados (SQL)**, e gost
 🗄️ Banco de Dados (SQL)  
 🎮 Game Development  
 
----
-
-### Tecnologias
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45">
-
-</div>
-
-<p align="center">
-☕ Java • 🗄️ MySQL • 🌐 HTML/CSS • 🌙 Lua • 🎨 Figma
-</p>
 
 ---
 
